@@ -2,6 +2,11 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+<br>
+<p align = 'center'><img src = 'boston_houses.png'></p>
+
+----
+
 ### Table Of Contents:
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
