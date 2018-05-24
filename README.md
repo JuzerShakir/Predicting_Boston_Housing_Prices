@@ -48,7 +48,7 @@ This project contains three files:
 
 Template code is provided in the `boston_housing.ipynb` notebook file. I will be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete my work. While some code has already been implemented to get me started, I'll need to implement additional functionality when requested to successfully complete the project. 
 
-> **Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+> **Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended to manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
 #### Dataset file
 
@@ -67,6 +67,7 @@ For the purposes of this project, the following preprocessing steps have been ma
 3. `PTRATIO`: pupil-teacher ratio by town
 
 **Target Variable**
+
 4. `MEDV`: median value of owner-occupied homes
 
 ----
