@@ -50,6 +50,7 @@ This project contains three files:
 - `boston_housing.ipynb`: This is the main file where I have performed my work on the project.
 - `housing.csv`: The project dataset. I'll load this data in the notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project.
+- `export/` : Folder containing HTML and PDF version file of notebook.
 
 Template code is provided in the `boston_housing.ipynb` notebook file. I will be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete my work. While some code has already been implemented to get me started, I'll need to implement additional functionality when requested to successfully complete the project. 
 
@@ -81,7 +82,7 @@ For the purposes of this project, the following preprocessing steps have been ma
 
 #### Requirements
 
-This project requires **Python 3** and the following Python libraries installed:
+This project requires **Python 3.6.5** and the following Python libraries installed:
 
 - [Python 3.6.5](https://www.python.org/downloads/release/python-365/)
 - [NumPy](http://www.numpy.org/)
