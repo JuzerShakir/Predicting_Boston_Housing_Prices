@@ -3,7 +3,7 @@
 ## Project: Predicting Boston Housing Prices
 
 <br>
-<p align = 'center'><img src = 'boston_houses.png'></p>
+<p align = 'center'><img src = 'logo.png'></p>
 
 ----
 
