@@ -105,6 +105,10 @@ or
 ```bash
 jupyter notebook report.ipynb
 ```
+or if you have 'Jupyter Lab' installed
+```bash
+jupyter lab
+```
 
 This will open the Jupyter Notebook software and project file in your browser.
 
