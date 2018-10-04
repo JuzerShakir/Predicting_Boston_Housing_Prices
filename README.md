@@ -47,12 +47,12 @@ This project is designed to get us acquainted to working with datasets in Python
 
 This project contains three files:
 
-- `boston_housing.ipynb`: This is the main file where I have performed my work on the project.
+- `report.ipynb`: This is the main file where I have performed my work on the project.
 - `housing.csv`: The project dataset. I'll load this data in the notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project.
 - `export/` : Folder containing HTML and PDF version file of notebook.
 
-Template code is provided in the `boston_housing.ipynb` notebook file. I will be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete my work. While some code has already been implemented to get me started, I'll need to implement additional functionality when requested to successfully complete the project. 
+Template code is provided in the `report.ipynb` notebook file. I will be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete my work. While some code has already been implemented to get me started, I'll need to implement additional functionality when requested to successfully complete the project. 
 
 > **Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended to manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
@@ -99,11 +99,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Predicting_Boston_housing_prices/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook report.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
